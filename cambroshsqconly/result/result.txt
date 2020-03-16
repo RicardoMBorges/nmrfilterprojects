@@ -1,0 +1,5 @@
+1: C[C@@H]1O[C@@H](Oc2c(oc3cc(O)cc(O)c3c2=O)-c2ccc(O)cc2)[C@H](O)[C@H](O)[C@H]1O/Afzelin, distance: 0.00, standard deviation: 0.99
+2: COc1cc2c(cc1O[C@@H]1OC(C)[C@H](O)[C@H](O)C1O)oc(cc2=O)-c1ccc(O)c(O[C@@H]2OC[C@@H](O)[C@H](O)C2O)c1/7,3',4'-Trihydroxy-6-methoxyflavone 7-rhamnoside-3'-xyloside, distance: 0.73, standard deviation: 1.00
+3: Oc1ccc(cc1)-c1oc2cc(O)cc(O)c2c(=O)c1O/Kaempferol, distance: 0.39, standard deviation: 0.18
+4: COc1cc(ccc1O)-c1cc(=O)c2c(O)c(OC)c(O)cc2o1/Jaceosidin, distance: 1.00, standard deviation: 0.60
+5: Oc1cc(O)c2c(c1)oc(cc2=O)-c1ccccc1/Chrysin, distance: 0.54, standard deviation: 0.00

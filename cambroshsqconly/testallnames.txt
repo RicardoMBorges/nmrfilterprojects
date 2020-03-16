@@ -1,111 +1,66 @@
-Camb_1
-Camb_2
-Camb_3
-Camb_4
-Camb_5
-Camb_6
-Camb_7
-Camb_8
-Camb_9
-Camb_10
-Camb_11
-Camb_12
-Camb_13
-Camb_14
-Camb_15
-Camb_16
-Camb_17
-Camb_18
-Camb_19
-Camb_20
-Camb_21
-Camb_22
-Camb_23
-Camb_24
-Camb_25
-Camb_26
-Camb_27
-Camb_28
-Camb_29
-Camb_30
-Camb_31
-Camb_32
-Camb_33
-Camb_34
-Camb_35
-Camb_36
-Camb_37
-Camb_38
-Camb_39
-Camb_40
-Camb_41
-Camb_42
-Camb_43
-Camb_44
-Camb_45
-Camb_46
-Camb_47
-Camb_48
-Camb_49
-Camb_50
-Camb_51
-Camb_52
-Camb_53
-Camb_54
-Camb_55
-Camb_56
-Camb_57
-Camb_58
-Camb_59
-Camb_60
-Camb_61
-Camb_62
-Camb_63
-Camb_64
-Camb_65
-Camb_66
-Camb_67
-Camb_68
-Camb_69
-Camb_70
-Camb_71
-Camb_72
-Camb_73
-Camb_74
-Camb_75
-Camb_76
-Camb_77
-Camb_78
-Camb_79
-Camb_80
-Camb_81
-Camb_82
-Camb_83
-Camb_84
-Camb_85
-Camb_86
-Camb_87
-Camb_88
-Camb_89
-Camb_90
-Camb_91
-Camb_92
-Camb_93
-Camb_94
-Camb_95
-Camb_96
-Camb_97
-Camb_98
-Camb_99
-Camb_100
-Camb_101
-Camb_102
-Camb_103
-Camb_104
-Camb_105
-Camb_106
-Camb_107
-Camb_108
-Camb_109
-Camb_110
-Camb_111
+3-O-alpha-L-arabinopyranosylserjanic acid 28-O-beta-D-glucopyranosyl ester
+4,5-seco-DOPA
+5-Methoxytryptamine
+7,3',4'-Trihydroxy-6-methoxyflavone 7-rhamnoside-3'-xyloside
+Afzelin
+Amaranthin
+Betalamic acid
+Betanidin
+Betanin
+Celosianin II
+Chikusetsusaponin IVa
+Chrysin
+Dihydroxyphenylalanine
+DOPA-betaxanthin
+Dopaxanthin-quinone
+Herbacetin
+Ilexoside XLVIII
+Isorhamnetin 3-(2G-apiosylrutinoside)
+Isorhamnetin 3-O-robinobioside
+Isorhamnetin 3-rhamnosyl-(1->2)-[rhamnosyl-(1->6)-galactoside]
+Jaceosidin
+Kaempferitrin
+Kaempferol
+Kaempferol 3-(2Gal-apiosylrobinobioside)
+Kaempferol 3-apiosyl-(1->2)-galactoside
+Kaempferol 3-apiosyl-(1->4)-rhamnoside-7-rhamnoside
+Kaempferol 3-O-sophoroside
+Kaempferol 3-rhamnoside-4'-xyloside
+Kaempferol 3-rhamnoside-7-xyloside
+Kaempferol 3-rhamnoside-7-xylosyl-(1->2)-rhamnoside
+Kaempferol 3-rhamnosyl-(1->2)-galactoside
+Kaempferol 3-robinobioside
+Kaempferol 3-robinobioside
+Kaempferol 3-xylosyl-(1->4)-rhamnoside-7-rhamnoside
+Kaempferol 7-O-alpha-L-rhamnopyranoside
+Kaempferol 7-O-alpha-L-rhamnopyranoside
+Kaempferol-7-O-glucoside
+Leuko-DOPA-chrome
+Leuko-DOPA-chrome-glucoside
+Mauritianin
+Melatonin
+Momordin IIc
+Nepetin 7-rhamnoside-3'-xyloside
+N-trans-Feruloyl tyramine
+o-DOPA-quinone
+Quercetin 3-(2Gal-apiosylrobinobioside)
+Quercetin 3-(2Gal-rhamnosyl-robinobioside)
+Quercetin 3-(2G-apiosylrutinoside)
+Quercetin 3-O-L-rhamnoside
+Quercetin 3-O-rhamnosyl-(1->6)-galactoside
+Quercetin 3-O-sophoroside
+Quinoasaponin 1
+Quinoasaponin 2
+Quinoasaponin 3
+Quinoasaponin 4
+Quinoasaponin 5
+Quinoasaponin 8
+Rhamnetin 3-glucoside
+Rhamnocitrin 3-galactoside
+Rhamnocitrin 3-glucoside
+Scopoletin
+Serotonin
+Sinensetin
+Sinensetin
+Tryptamine
+Tyrosine-betaxanthin
