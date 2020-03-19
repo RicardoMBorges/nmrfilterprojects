@@ -1,66 +1,32 @@
-3-O-alpha-L-arabinopyranosylserjanic acid 28-O-beta-D-glucopyranosyl ester
-4,5-seco-DOPA
-5-Methoxytryptamine
-7,3',4'-Trihydroxy-6-methoxyflavone 7-rhamnoside-3'-xyloside
-Afzelin
-Amaranthin
-Betalamic acid
-Betanidin
-Betanin
-Celosianin II
-Chikusetsusaponin IVa
-Chrysin
-Dihydroxyphenylalanine
-DOPA-betaxanthin
-Dopaxanthin-quinone
-Herbacetin
-Ilexoside XLVIII
-Isorhamnetin 3-(2G-apiosylrutinoside)
-Isorhamnetin 3-O-robinobioside
-Isorhamnetin 3-rhamnosyl-(1->2)-[rhamnosyl-(1->6)-galactoside]
-Jaceosidin
-Kaempferitrin
-Kaempferol
-Kaempferol 3-(2Gal-apiosylrobinobioside)
-Kaempferol 3-apiosyl-(1->2)-galactoside
-Kaempferol 3-apiosyl-(1->4)-rhamnoside-7-rhamnoside
-Kaempferol 3-O-sophoroside
-Kaempferol 3-rhamnoside-4'-xyloside
-Kaempferol 3-rhamnoside-7-xyloside
-Kaempferol 3-rhamnoside-7-xylosyl-(1->2)-rhamnoside
-Kaempferol 3-rhamnosyl-(1->2)-galactoside
-Kaempferol 3-robinobioside
-Kaempferol 3-robinobioside
-Kaempferol 3-xylosyl-(1->4)-rhamnoside-7-rhamnoside
-Kaempferol 7-O-alpha-L-rhamnopyranoside
-Kaempferol 7-O-alpha-L-rhamnopyranoside
-Kaempferol-7-O-glucoside
-Leuko-DOPA-chrome
-Leuko-DOPA-chrome-glucoside
-Mauritianin
-Melatonin
-Momordin IIc
-Nepetin 7-rhamnoside-3'-xyloside
-N-trans-Feruloyl tyramine
-o-DOPA-quinone
-Quercetin 3-(2Gal-apiosylrobinobioside)
-Quercetin 3-(2Gal-rhamnosyl-robinobioside)
-Quercetin 3-(2G-apiosylrutinoside)
-Quercetin 3-O-L-rhamnoside
-Quercetin 3-O-rhamnosyl-(1->6)-galactoside
-Quercetin 3-O-sophoroside
-Quinoasaponin 1
-Quinoasaponin 2
-Quinoasaponin 3
-Quinoasaponin 4
-Quinoasaponin 5
-Quinoasaponin 8
-Rhamnetin 3-glucoside
-Rhamnocitrin 3-galactoside
-Rhamnocitrin 3-glucoside
-Scopoletin
-Serotonin
-Sinensetin
-Sinensetin
-Tryptamine
-Tyrosine-betaxanthin
+luteolin
+quercetin
+kaempferol
+3-caffeoylquinic acid
+4-caffeoylquinic acid
+5-caffeoylquinic acid
+3,4-Dicaffeoylquinic acid
+4,5-Dicaffeoylquinic acid
+3,5-Dicaffeoylquinic acid
+3-O-Feruloylquinic acid
+5-O-Feruloylquinic acid
+3,5,6,7-Tetrahydroxy-4'-methoxyflavone
+caffeic acid
+ferulic acid
+sinapic acid
+syringic acid
+p-coumaric acid
+salicylic acid
+gentisic acid
+vanillic acid
+rutin
+isoquercetin
+kaempferol 3-O-rutinoside
+astragalin
+apigenin 7-O-glucoside
+hyperoside
+luteolin 7-glucoside
+kaempferol 3-rutinoside
+naringin
+gallic acid
+protocatechuic acid
+Rosmarinic acid
